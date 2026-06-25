@@ -190,8 +190,6 @@
 <br><br>
 <!-- =========ENDMAIN REPO =Projects REFERENCES ========= -->
 
-<br><br>
-
 > [!IMPORTANT]
 >
 > This repository documents an end-to-end academic project in Computer Vision for automatic 
