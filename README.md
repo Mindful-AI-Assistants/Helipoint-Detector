@@ -838,6 +838,8 @@ The pipeline includes:
 
 Example inference code:
 
+<br>
+
 ```python
 from ultralytics import YOLO
 
@@ -850,6 +852,15 @@ results = model.predict(
 )
 ```
 
+<br>
+
+> [!TIP]
+>
+>  This closes the loop between geographic discovery, programmatic collection, annotation and automated prediction in new urban contexts.
+
+<br><br>
+
+## [Web Application (Optional Layer)]()
 
 
 
